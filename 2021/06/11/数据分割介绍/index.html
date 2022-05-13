@@ -18,19 +18,19 @@
   
   
   <title>数据分割介绍 | Hexo</title>
-  <meta name="description" content="数据分割介绍在机器学习中，我们可通过实验测试来对学习器的泛化误差进行评估并进而做出选择。 为此，需使用一个“测试集”( testing set)来测试学习器对新样本的判别能力，然后以测试集上的“测试误差” (testing error)作为泛化误差的近似。 通常我们假设测试样本也是从样本真实分布中独立同分布采样而得。但需注意的是，测试集应该尽可能与训练集互斥。  互斥，即测试样本尽量不在训练集中出">
+  <meta name="description" content="数据分割介绍[toc] 在机器学习中，我们可通过实验测试来对学习器的泛化误差进行评估并进而做出选择。 为此，需使用一个“测试集”( testing set)来测试学习器对新样本的判别能力，然后以测试集上的“测试误差” (testing error)作为泛化误差的近似。 通常我们假设测试样本也是从样本真实分布中独立同分布采样而得。但需注意的是，测试集应该尽可能与训练集互斥。  互斥，即测试样本尽量不">
 <meta property="og:type" content="article">
 <meta property="og:title" content="数据分割介绍">
 <meta property="og:url" content="http://sherwinzhang.com/2021/06/11/%E6%95%B0%E6%8D%AE%E5%88%86%E5%89%B2%E4%BB%8B%E7%BB%8D/index.html">
 <meta property="og:site_name" content="sherwinNG&#39;s blog">
-<meta property="og:description" content="数据分割介绍在机器学习中，我们可通过实验测试来对学习器的泛化误差进行评估并进而做出选择。 为此，需使用一个“测试集”( testing set)来测试学习器对新样本的判别能力，然后以测试集上的“测试误差” (testing error)作为泛化误差的近似。 通常我们假设测试样本也是从样本真实分布中独立同分布采样而得。但需注意的是，测试集应该尽可能与训练集互斥。  互斥，即测试样本尽量不在训练集中出">
+<meta property="og:description" content="数据分割介绍[toc] 在机器学习中，我们可通过实验测试来对学习器的泛化误差进行评估并进而做出选择。 为此，需使用一个“测试集”( testing set)来测试学习器对新样本的判别能力，然后以测试集上的“测试误差” (testing error)作为泛化误差的近似。 通常我们假设测试样本也是从样本真实分布中独立同分布采样而得。但需注意的是，测试集应该尽可能与训练集互斥。  互斥，即测试样本尽量不">
 <meta property="og:image" content="https://tva1.sinaimg.cn/large/006tNbRwly1gaa7rhg07vj30js01iweh.jpg">
 <meta property="og:image" content="https://tva1.sinaimg.cn/large/006tNbRwgy1gazesd4ngwj309401g745.jpg">
 <meta property="og:image" content="https://tva1.sinaimg.cn/large/006tNbRwgy1gazet6n0dwj30ig01g74a.jpg">
 <meta property="og:image" content="https://tva1.sinaimg.cn/large/006tNbRwly1gaa0qilguhj31cg0m2q5k.jpg">
 <meta property="og:image" content="https://tva1.sinaimg.cn/large/006tNbRwly1gaa4wbuxlvj30ge03m3yq.jpg">
 <meta property="article:published_time" content="2021-06-11T01:14:21.000Z">
-<meta property="article:modified_time" content="2022-05-12T16:04:12.450Z">
+<meta property="article:modified_time" content="2022-05-13T01:26:09.974Z">
 <meta property="article:author" content="sherwin">
 <meta property="article:tag" content="ML">
 <meta name="twitter:card" content="summary">
@@ -378,7 +378,8 @@
     </div>
     <div class="article-entry marked-body" itemprop="articleBody">
       
-        <h1 id="数据分割介绍"><a href="#数据分割介绍" class="headerlink" title="数据分割介绍"></a>数据分割介绍</h1><p>在机器学习中，我们可<strong>通过实验测试来对学习器的泛化误差进行评估并进而做出选择</strong>。</p>
+        <h1 id="数据分割介绍"><a href="#数据分割介绍" class="headerlink" title="数据分割介绍"></a>数据分割介绍</h1><p>[toc]</p>
+<p>在机器学习中，我们可<strong>通过实验测试来对学习器的泛化误差进行评估并进而做出选择</strong>。</p>
 <p>为此，需使用一个“测试集”( testing set)来测试学习器对新样本的判别能力，然后<strong>以测试集上的“测试误差” (testing error)作为泛化误差的近似。</strong></p>
 <p>通常我们假设测试样本也是<strong>从样本真实分布中独立同分布采样而得</strong>。但需注意的是，<strong>测试集应该尽可能与训练集互斥。</strong></p>
 <blockquote>
