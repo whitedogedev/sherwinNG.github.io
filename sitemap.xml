@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/index.html</loc>
+    <loc>http://sherwinzhang.com/books/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -65,6 +65,15 @@
   </url>
   
   <url>
+    <loc>http://sherwinzhang.com/repository/index.html</loc>
+    
+    <lastmod>2022-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/categories/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
@@ -74,16 +83,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/books/index.html</loc>
-    
-    <lastmod>2022-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://sherwinzhang.com/repository/index.html</loc>
+    <loc>http://sherwinzhang.com/tags/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
