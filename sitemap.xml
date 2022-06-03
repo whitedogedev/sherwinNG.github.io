@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sherwinzhang.com/google13fc42b677fff64a.html</loc>
+    
+    <lastmod>2022-06-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/2019%E5%B9%B4%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E7%94%9F%E6%B4%BB%E6%9D%82%E6%84%9F/</loc>
     
     <lastmod>2022-05-14</lastmod>
@@ -74,6 +83,15 @@
   </url>
   
   <url>
+    <loc>http://sherwinzhang.com/links/index.html</loc>
+    
+    <lastmod>2022-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/categories/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
@@ -84,15 +102,6 @@
   
   <url>
     <loc>http://sherwinzhang.com/repository/index.html</loc>
-    
-    <lastmod>2022-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://sherwinzhang.com/links/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -121,22 +130,22 @@
 
   <url>
     <loc>http://sherwinzhang.com/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://sherwinzhang.com/tags/ML/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <loc>http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/</loc>
+    <lastmod>2022-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <loc>http://sherwinzhang.com/tags/ML/</loc>
+    <lastmod>2022-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -144,15 +153,15 @@
 
   
   <url>
-    <loc>http://sherwinzhang.com/categories/ML/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <loc>http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2022-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <loc>http://sherwinzhang.com/categories/ML/</loc>
+    <lastmod>2022-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
