@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sherwinzhang.com/apple%E7%94%9F%E6%80%81/apple%E7%94%9F%E6%80%81/%E7%9B%AE%E5%89%8D%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%99%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/</loc>
+    
+    <lastmod>2022-06-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/google13fc42b677fff64a.html</loc>
     
     <lastmod>2022-06-03</lastmod>
@@ -150,6 +159,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://sherwinzhang.com/tags/software/</loc>
+    <lastmod>2022-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -161,6 +177,13 @@
   
   <url>
     <loc>http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2022-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://sherwinzhang.com/categories/apple%E7%94%9F%E6%80%81/</loc>
     <lastmod>2022-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
