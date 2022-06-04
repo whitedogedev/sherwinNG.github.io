@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/books/index.html</loc>
+    <loc>http://sherwinzhang.com/categories/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/categories/index.html</loc>
+    <loc>http://sherwinzhang.com/tags/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/repository/index.html</loc>
+    <loc>http://sherwinzhang.com/books/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/index.html</loc>
+    <loc>http://sherwinzhang.com/repository/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -146,6 +146,13 @@
 
   
   <url>
+    <loc>http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/</loc>
+    <lastmod>2022-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/tags/ML/</loc>
     <lastmod>2022-06-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -159,14 +166,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/</loc>
+    <loc>http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2022-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>http://sherwinzhang.com/categories/ML/</loc>
@@ -177,13 +184,6 @@
   
   <url>
     <loc>http://sherwinzhang.com/categories/apple%E7%94%9F%E6%80%81/</loc>
-    <lastmod>2022-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2022-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
