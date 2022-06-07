@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2022-06-03T16:22:54.587Z</updated>
+  <updated>2022-06-07T13:38:49.530Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -15,6 +15,72 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AI模型部署-fastapi[3-3]</title>
+    <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-fastapi[3-3]/"/>
+    <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-fastapi[3-3]/</id>
+    <published>2022-06-07T13:34:29.000Z</published>
+    <updated>2022-06-07T13:38:49.530Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一-使用方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-使用方法&quot;&gt;&lt;/a&gt; 一、使用方法&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;1.fastapi服务代码&lt;/li&gt;&lt;/ul&gt;&lt;figure class=&quot;highlight python&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="AI综合" scheme="http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/"/>
+    
+    
+    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI模型部署-flask[3-2]</title>
+    <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/"/>
+    <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/</id>
+    <published>2022-06-07T13:04:29.000Z</published>
+    <updated>2022-06-07T13:38:42.937Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一-背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-背景&quot;&gt;&lt;/a&gt; 一、背景&lt;/h2&gt;&lt;p&gt;深度学习在训练好模型中，我们需要进行部署，有一些框架中已经自带部署框架，如TensorFlow中的 TensorFlow servin</summary>
+      
+    
+    
+    
+    <category term="AI综合" scheme="http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/"/>
+    
+    
+    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI模型部署-flask和fastapi对比[3-1]</title>
+    <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/"/>
+    <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/</id>
+    <published>2022-06-07T12:44:29.000Z</published>
+    <updated>2022-06-07T13:38:37.020Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1基本介绍&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1基本介绍&quot;&gt;&lt;/a&gt; 1.基本介绍&lt;/h2&gt;&lt;p&gt;flask、fastapi都是python语言在Web领域的框架，使用它们可以帮助我们提升效率，节省时间，避免我们在组装”汽车</summary>
+      
+    
+    
+    
+    <category term="AI综合" scheme="http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/"/>
+    
+    
+    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
+    
+  </entry>
   
   <entry>
     <title>目前使用不错软件整理</title>
