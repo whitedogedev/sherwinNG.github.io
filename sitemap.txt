@@ -1,3 +1,4 @@
+http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/tmux%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/
 http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-fastapi[3-3]/
 http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/
 http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/
@@ -12,16 +13,18 @@ http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%
 http://sherwinzhang.com/about/index.html
 http://sherwinzhang.com/books/index.html
 http://sherwinzhang.com/categories/index.html
-http://sherwinzhang.com/tags/index.html
 http://sherwinzhang.com/links/index.html
 http://sherwinzhang.com/repository/index.html
+http://sherwinzhang.com/tags/index.html
 http://sherwinzhang.com/404.html
 http://sherwinzhang.com/
 http://sherwinzhang.com/tags/AI/
 http://sherwinzhang.com/tags/ML/
 http://sherwinzhang.com/tags/software/
+http://sherwinzhang.com/tags/Linux/
 http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/
 http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/
 http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/
 http://sherwinzhang.com/categories/apple%E7%94%9F%E6%80%81/
+http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/
 http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/
