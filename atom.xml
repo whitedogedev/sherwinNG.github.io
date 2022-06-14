@@ -171,24 +171,20 @@
   </entry>
   
   <entry>
-    <title>分类中解决类别不平衡问题</title>
-    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/"/>
-    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/</id>
-    <published>2019-06-10T02:24:21.000Z</published>
-    <updated>2022-06-04T03:47:40.240Z</updated>
+    <title>ML/分类中解决类别不平衡问题</title>
+    <link href="http://sherwinzhang.com/uncategorized/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/"/>
+    <id>http://sherwinzhang.com/uncategorized/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/</id>
+    <published>2019-12-30T08:51:37.620Z</published>
+    <updated>2022-06-08T15:38:39.458Z</updated>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;分类中解决类别不平衡问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#分类中解决类别不平衡问题&quot;&gt;&lt;/a&gt; 分类中解决类别不平衡问题&lt;/h1&gt;&lt;hr&gt;&lt;p&gt;其实，在现实环境中，采集的数据（建模样本）往往是比例失衡的。比如网贷数据，逾期</summary>
+    <summary type="html">&lt;p&gt;w&lt;/p&gt;&lt;h1 id=&quot;分类中解决类别不平衡问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#分类中解决类别不平衡问题&quot;&gt;&lt;/a&gt; 分类中解决类别不平衡问题&lt;/h1&gt;&lt;hr&gt;&lt;p&gt;其实，在现实环境中，采集的数据（建模样本）往往是比例失衡的。比</summary>
       
     
     
     
-    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
     
   </entry>
   
