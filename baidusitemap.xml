@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/ROC%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%BB%98%E5%88%B6/</loc>
+    <lastmod>2022-08-10</lastmod>
+  </url>
+  <url>
+    <loc>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2022-08-10</lastmod>
+  </url>
+  <url>
+    <loc>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BF%9D%E5%AD%98%E5%92%8C%E5%8A%A0%E8%BD%BD/</loc>
+    <lastmod>2022-08-10</lastmod>
+  </url>
+  <url>
+    <loc>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A0%E5%81%8F%E4%BC%B0%E8%AE%A1/</loc>
+    <lastmod>2022-08-10</lastmod>
+  </url>
+  <url>
     <loc>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/BERT%E4%B9%8B%E5%90%8E%EF%BC%8CNLP%E4%B8%BB%E8%A6%81%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B%E6%BC%94%E5%8F%98%E6%A2%B3%E7%90%86/</loc>
     <lastmod>2022-08-10</lastmod>
   </url>
@@ -15,10 +31,6 @@
   <url>
     <loc>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Anaconda/</loc>
     <lastmod>2022-06-16</lastmod>
-  </url>
-  <url>
-    <loc>http://sherwinzhang.com/uncategorized/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2022-06-08</lastmod>
   </url>
   <url>
     <loc>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/tmux%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</loc>

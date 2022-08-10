@@ -259,20 +259,24 @@
   </entry>
   
   <entry>
-    <title>ML/分类中解决类别不平衡问题</title>
-    <link href="http://sherwinzhang.com/uncategorized/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/"/>
-    <id>http://sherwinzhang.com/uncategorized/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/</id>
-    <published>2019-12-30T08:51:37.620Z</published>
-    <updated>2022-06-08T15:38:39.458Z</updated>
+    <title>分类中解决类别不平衡问题</title>
+    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/"/>
+    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/</id>
+    <published>2019-08-11T02:28:21.000Z</published>
+    <updated>2022-08-10T14:58:55.006Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;w&lt;/p&gt;&lt;h1 id=&quot;分类中解决类别不平衡问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#分类中解决类别不平衡问题&quot;&gt;&lt;/a&gt; 分类中解决类别不平衡问题&lt;/h1&gt;&lt;hr&gt;&lt;p&gt;其实，在现实环境中，采集的数据（建模样本）往往是比例失衡的。比</summary>
+    <summary type="html">&lt;h1 id=&quot;分类中解决类别不平衡问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#分类中解决类别不平衡问题&quot;&gt;&lt;/a&gt; 分类中解决类别不平衡问题&lt;/h1&gt;&lt;hr&gt;&lt;p&gt;在现实环境中，采集的数据（建模样本）往往是比例失衡的。比如网贷数据，逾期人数的</summary>
       
     
     
     
+    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
     
   </entry>
   
@@ -309,6 +313,72 @@
       
       
     <summary type="html">&lt;h1 id=&quot;完整机器学习项目的流程&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#完整机器学习项目的流程&quot;&gt;&lt;/a&gt; 完整机器学习项目的流程&lt;/h1&gt;&lt;h4 id=&quot;1-抽象成数学问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; h</summary>
+      
+    
+    
+    
+    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何理解无偏估计？</title>
+    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A0%E5%81%8F%E4%BC%B0%E8%AE%A1/"/>
+    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A0%E5%81%8F%E4%BC%B0%E8%AE%A1/</id>
+    <published>2019-05-20T02:28:21.000Z</published>
+    <updated>2022-08-10T14:58:37.847Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;如何理解无偏估计&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#如何理解无偏估计&quot;&gt;&lt;/a&gt; 如何理解无偏估计？&lt;/h1&gt;&lt;h2 id=&quot;1如何理解无偏估计&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1如</summary>
+      
+    
+    
+    
+    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模型的保存和加载</title>
+    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BF%9D%E5%AD%98%E5%92%8C%E5%8A%A0%E8%BD%BD/"/>
+    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BF%9D%E5%AD%98%E5%92%8C%E5%8A%A0%E8%BD%BD/</id>
+    <published>2019-05-09T02:28:21.000Z</published>
+    <updated>2022-08-10T14:58:45.728Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;模型的保存和加载&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#模型的保存和加载&quot;&gt;&lt;/a&gt; 模型的保存和加载&lt;/h1&gt;&lt;h2 id=&quot;1sklearn模型的保存和加载api&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; </summary>
+      
+    
+    
+    
+    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ROC曲线的绘制</title>
+    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/ROC%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%BB%98%E5%88%B6/"/>
+    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/ROC%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%BB%98%E5%88%B6/</id>
+    <published>2019-03-11T02:28:21.000Z</published>
+    <updated>2022-08-10T14:59:09.912Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;roc曲线的绘制&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#roc曲线的绘制&quot;&gt;&lt;/a&gt; ROC曲线的绘制&lt;/h1&gt;&lt;p&gt;关于ROC曲线的绘制过程，通过以下举例进行说明&lt;/p&gt;&lt;p&gt;假设有6次展示记录，有两次被点击了，得到一个展示序</summary>
       
     
     
