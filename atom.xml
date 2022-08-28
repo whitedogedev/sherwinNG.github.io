@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2022-08-16T08:24:34.000Z</updated>
+  <updated>2022-08-16T15:31:37.788Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -15,24 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>计算机相关/markdown常见数学公式</title>
-    <link href="http://sherwinzhang.com/uncategorized/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/markdown%E5%B8%B8%E8%A7%81%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/"/>
-    <id>http://sherwinzhang.com/uncategorized/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/markdown%E5%B8%B8%E8%A7%81%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</id>
-    <published>2022-08-16T15:19:49.000Z</published>
-    <updated>2022-08-16T08:24:34.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;1行内与独行&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1行内与独行&quot;&gt;&lt;/a&gt; 1.行内与独行&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;行内公式：将公式插入到本行内，符号：&lt;code&gt;$公式内容$&lt;/code&gt;，如：&lt;span class=&quot;ka</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>智能客服/00.整体目录</title>
@@ -71,16 +53,16 @@
   </entry>
   
   <entry>
-    <title>智能客服/01.智能客服入门</title>
-    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/01.%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D%E5%85%A5%E9%97%A8/"/>
-    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/01.%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D%E5%85%A5%E9%97%A8/</id>
+    <title>智能客服/05.对话生成</title>
+    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/05.%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90/"/>
+    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/05.%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90/</id>
     <published>2022-08-16T15:19:49.000Z</published>
-    <updated>2022-08-16T12:38:24.000Z</updated>
+    <updated>2022-08-16T12:28:20.000Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;资料汇总&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#资料汇总&quot;&gt;&lt;/a&gt; 资料汇总&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/7xmDcaczpda5eoViPrjLRA&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;对话生成&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#对话生成&quot;&gt;&lt;/a&gt; 对话生成&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/Or6oDt0aZFlnlMr8EBr-xQ&quot; ta</summary>
       
     
     
@@ -107,24 +89,6 @@
   </entry>
   
   <entry>
-    <title>智能客服/05.对话生成</title>
-    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/05.%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90/"/>
-    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/05.%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90/</id>
-    <published>2022-08-16T15:19:49.000Z</published>
-    <updated>2022-08-16T12:28:20.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;对话生成&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#对话生成&quot;&gt;&lt;/a&gt; 对话生成&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/Or6oDt0aZFlnlMr8EBr-xQ&quot; ta</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>智能客服/06.问答系统</title>
     <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/06.%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F/"/>
     <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/06.%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F/</id>
@@ -135,60 +99,6 @@
       
       
     <summary type="html">&lt;h2 id=&quot;问答系统&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#问答系统&quot;&gt;&lt;/a&gt; 问答系统&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/q8DSuodUa_XdiGYHzViCsA&quot;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>智能客服/08.知识图谱</title>
-    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/08.%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/"/>
-    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/08.%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</id>
-    <published>2022-08-16T15:19:49.000Z</published>
-    <updated>2022-08-16T12:29:08.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;知识图谱&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#知识图谱&quot;&gt;&lt;/a&gt; 知识图谱&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/deyNno3BkqtGMdl1iD4Luw&quot;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>智能客服/07.智能客服</title>
-    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/07.%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/"/>
-    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/07.%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/</id>
-    <published>2022-08-16T15:19:49.000Z</published>
-    <updated>2022-08-16T12:28:46.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;智能客服&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#智能客服&quot;&gt;&lt;/a&gt; 智能客服&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/cht9ng1OMLwS_NgQh_8rQw&quot; ta</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>智能客服/09.知识库</title>
-    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/09.%E7%9F%A5%E8%AF%86%E5%BA%93/"/>
-    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/09.%E7%9F%A5%E8%AF%86%E5%BA%93/</id>
-    <published>2022-08-16T15:19:49.000Z</published>
-    <updated>2022-08-16T12:39:09.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;知识库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#知识库&quot;&gt;&lt;/a&gt; 知识库&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/O_scTuIto698EM8oivoDoQ&quot; ta</summary>
       
     
     
@@ -215,6 +125,42 @@
   </entry>
   
   <entry>
+    <title>智能客服/07.智能客服</title>
+    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/07.%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/"/>
+    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/07.%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/</id>
+    <published>2022-08-16T15:19:49.000Z</published>
+    <updated>2022-08-16T12:28:46.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;智能客服&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#智能客服&quot;&gt;&lt;/a&gt; 智能客服&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/cht9ng1OMLwS_NgQh_8rQw&quot; ta</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>智能客服/01.智能客服入门</title>
+    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/01.%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D%E5%85%A5%E9%97%A8/"/>
+    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/01.%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D%E5%85%A5%E9%97%A8/</id>
+    <published>2022-08-16T15:19:49.000Z</published>
+    <updated>2022-08-16T12:38:24.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;资料汇总&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#资料汇总&quot;&gt;&lt;/a&gt; 资料汇总&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/7xmDcaczpda5eoViPrjLRA&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>智能客服/11.聊天机器人综合知识</title>
     <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/11.%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86/"/>
     <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/11.%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86/</id>
@@ -233,6 +179,24 @@
   </entry>
   
   <entry>
+    <title>智能客服/08.知识图谱</title>
+    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/08.%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/"/>
+    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/08.%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</id>
+    <published>2022-08-16T15:19:49.000Z</published>
+    <updated>2022-08-16T12:29:08.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;知识图谱&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#知识图谱&quot;&gt;&lt;/a&gt; 知识图谱&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/deyNno3BkqtGMdl1iD4Luw&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>智能客服/12.综合资料</title>
     <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/12.%E7%BB%BC%E5%90%88%E8%B5%84%E6%96%99/"/>
     <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/12.%E7%BB%BC%E5%90%88%E8%B5%84%E6%96%99/</id>
@@ -243,6 +207,24 @@
       
       
     <summary type="html">&lt;h2 id=&quot;综合&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#综合&quot;&gt;&lt;/a&gt; 综合&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/sBXZVFGWPRtDI2tc4Z-Rnw&quot; targe</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>智能客服/09.知识库</title>
+    <link href="http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/09.%E7%9F%A5%E8%AF%86%E5%BA%93/"/>
+    <id>http://sherwinzhang.com/uncategorized/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/09.%E7%9F%A5%E8%AF%86%E5%BA%93/</id>
+    <published>2022-08-16T15:19:49.000Z</published>
+    <updated>2022-08-16T12:39:09.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;知识库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#知识库&quot;&gt;&lt;/a&gt; 知识库&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/O_scTuIto698EM8oivoDoQ&quot; ta</summary>
       
     
     
@@ -401,6 +383,28 @@
     
     
     <category term="NLP" scheme="http://sherwinzhang.com/tags/NLP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux环境下安装Anaconda</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Anaconda/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Anaconda/</id>
+    <published>2021-10-10T00:55:39.000Z</published>
+    <updated>2022-06-16T00:56:03.776Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;linux环境下安装anaconda&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux环境下安装anaconda&quot;&gt;&lt;/a&gt; linux环境下安装Anaconda&lt;/h1&gt;&lt;h2 id=&quot;1下载&quot;&gt;&lt;a class=&quot;markd</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
     
   </entry>
   
