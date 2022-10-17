@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2022-08-28T14:21:41.212Z</updated>
+  <updated>2022-10-17T15:02:19.231Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《人世间》小说已阅</title>
+    <link href="http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E3%80%8A%E4%BA%BA%E4%B8%96%E9%97%B4%E3%80%8B%E5%B0%8F%E8%AF%B4%E5%B7%B2%E9%98%85/"/>
+    <id>http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E3%80%8A%E4%BA%BA%E4%B8%96%E9%97%B4%E3%80%8B%E5%B0%8F%E8%AF%B4%E5%B7%B2%E9%98%85/</id>
+    <published>2022-10-09T11:41:15.000Z</published>
+    <updated>2022-10-17T15:02:19.231Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;国庆期间，因为疫情，同时北京马上二十大召开，出京不便，于是在放假前几天买了这部小说。不辱使命，几天时间把上、中、下三部都翻完。&lt;/p&gt;&lt;p&gt;我发现，对于这种描写近现代几代人生活的小说，我有一种莫名的的痴迷，比如之前看过的《平凡的世界》、《白鹿原》、《大江东去》。&lt;/p&gt;&lt;p</summary>
+      
+    
+    
+    
+    <category term="程序人生" scheme="http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+    
+    <category term="随感" scheme="http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>RoBERTa：一种稳健优化BERT的预训练方法</title>
@@ -423,28 +445,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;完整机器学习项目的流程&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#完整机器学习项目的流程&quot;&gt;&lt;/a&gt; 完整机器学习项目的流程&lt;/h1&gt;&lt;h4 id=&quot;1-抽象成数学问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; h</summary>
-      
-    
-    
-    
-    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何理解无偏估计？</title>
-    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A0%E5%81%8F%E4%BC%B0%E8%AE%A1/"/>
-    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A0%E5%81%8F%E4%BC%B0%E8%AE%A1/</id>
-    <published>2019-05-20T02:28:21.000Z</published>
-    <updated>2022-08-10T14:58:37.847Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;如何理解无偏估计&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#如何理解无偏估计&quot;&gt;&lt;/a&gt; 如何理解无偏估计？&lt;/h1&gt;&lt;h2 id=&quot;1如何理解无偏估计&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1如</summary>
       
     
     
