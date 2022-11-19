@@ -380,15 +380,6 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/index.html</loc>
-    
-    <lastmod>2022-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://sherwinzhang.com/links/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
@@ -399,6 +390,15 @@
   
   <url>
     <loc>http://sherwinzhang.com/repository/index.html</loc>
+    
+    <lastmod>2022-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://sherwinzhang.com/tags/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -446,6 +446,13 @@
   </url>
   
   <url>
+    <loc>http://sherwinzhang.com/tags/RS/</loc>
+    <lastmod>2022-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/tags/software/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -481,13 +488,6 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</loc>
-    <lastmod>2022-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -502,7 +502,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/RS/</loc>
+    <loc>http://sherwinzhang.com/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -546,6 +546,13 @@
   </url>
   
   <url>
+    <loc>http://sherwinzhang.com/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2022-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/categories/apple%E7%94%9F%E6%80%81/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -561,13 +568,6 @@
   
   <url>
     <loc>http://sherwinzhang.com/categories/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/</loc>
-    <lastmod>2022-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://sherwinzhang.com/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
