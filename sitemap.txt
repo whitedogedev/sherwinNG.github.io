@@ -1,6 +1,6 @@
+http://sherwinzhang.com/about/index.html
 http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/
 http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/DeepFM/
-http://sherwinzhang.com/about/index.html
 http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E3%80%8A%E4%BA%BA%E4%B8%96%E9%97%B4%E3%80%8B%E5%B0%8F%E8%AF%B4%E5%B7%B2%E9%98%85/
 http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/BERT%E4%B9%8B%E5%90%8E%EF%BC%8CNLP%E4%B8%BB%E8%A6%81%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B%E6%BC%94%E5%8F%98%E6%A2%B3%E7%90%86/
 http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/ERNIE%E8%AE%BA%E6%96%87%E5%AF%BC%E8%AF%BB%E5%92%8C%E7%BF%BB%E8%AF%91/

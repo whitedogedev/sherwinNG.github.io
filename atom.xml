@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2022-11-19T06:24:35.857Z</updated>
+  <updated>2022-11-19T06:59:43.499Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/"/>
     <id>http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/</id>
     <published>2022-11-18T15:06:11.000Z</published>
-    <updated>2022-11-19T06:24:35.857Z</updated>
+    <updated>2022-11-19T06:59:43.499Z</updated>
     
     
     <summary type="html">本文主要对推荐系统做了基本介绍，从推荐系统为什么会出现，然后讲解了推荐系统基本概念，以及推荐和搜索的区别；梳理了推荐系统的发展历史，推荐系统主要架构，部分推荐系统案例；最后自己设计了一个视频推荐系统整体流程。</summary>
