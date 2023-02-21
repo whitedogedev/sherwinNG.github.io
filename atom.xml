@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2022-11-19T06:59:43.499Z</updated>
+  <updated>2023-02-20T11:12:58.000Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何监测部署服务是否正常运行，同时挂掉后自动重启</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E7%9B%91%E6%B5%8B%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E6%98%AF%E5%90%A6%E6%AD%A3%E5%B8%B8%E8%BF%90%E8%A1%8C%EF%BC%8C%E5%90%8C%E6%97%B6%E6%8C%82%E6%8E%89%E5%90%8E%E8%87%AA%E5%8A%A8%E9%87%8D%E5%90%AF/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E7%9B%91%E6%B5%8B%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E6%98%AF%E5%90%A6%E6%AD%A3%E5%B8%B8%E8%BF%90%E8%A1%8C%EF%BC%8C%E5%90%8C%E6%97%B6%E6%8C%82%E6%8E%89%E5%90%8E%E8%87%AA%E5%8A%A8%E9%87%8D%E5%90%AF/</id>
+    <published>2023-02-20T11:12:42.000Z</published>
+    <updated>2023-02-20T11:12:58.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;如何监测部署服务是否正常运行同时挂掉后自动重启&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#如何监测部署服务是否正常运行同时挂掉后自动重启&quot;&gt;&lt;/a&gt; 如何监测部署服务是否正常运行，同时挂掉后自动重启&lt;/h1&gt;&lt;h2 id=&quot;1需求&quot;</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>推荐系统通俗介绍</title>
@@ -422,28 +444,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;分类中解决类别不平衡问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#分类中解决类别不平衡问题&quot;&gt;&lt;/a&gt; 分类中解决类别不平衡问题&lt;/h1&gt;&lt;hr&gt;&lt;p&gt;在现实环境中，采集的数据（建模样本）往往是比例失衡的。比如网贷数据，逾期人数的</summary>
-      
-    
-    
-    
-    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>独立同分布</title>
-    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E7%8B%AC%E7%AB%8B%E5%90%8C%E5%88%86%E5%B8%83/"/>
-    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E7%8B%AC%E7%AB%8B%E5%90%8C%E5%88%86%E5%B8%83/</id>
-    <published>2019-06-08T02:24:21.000Z</published>
-    <updated>2022-06-04T03:47:35.264Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;独立同分布iidindependent-and-identically-distributed&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#独立同分布iidindependent-and-identically-distributed</summary>
       
     
     
