@@ -39,6 +39,28 @@
   </entry>
   
   <entry>
+    <title>chatGPT API使用以及参数说明</title>
+    <link href="http://sherwinzhang.com/chatGPT/chatGPT/chatGPT-api/"/>
+    <id>http://sherwinzhang.com/chatGPT/chatGPT/chatGPT-api/</id>
+    <published>2023-02-08T02:24:21.000Z</published>
+    <updated>2023-03-31T00:53:45.738Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;OpenAI 官方发布chatGPT(GPT3.5) API 使用指南&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;该篇文章为 NLPer 和 chatGPT 合作完成。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;3月2日，OpenAI放出了真正的ChatGPT API，本次提供的AP</summary>
+      
+    
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/categories/chatGPT/"/>
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/tags/chatGPT/"/>
+    
+  </entry>
+  
+  <entry>
     <title>推荐系统通俗介绍</title>
     <link href="http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/"/>
     <id>http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/</id>
@@ -422,28 +444,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;朗格朗日乘子法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#朗格朗日乘子法&quot;&gt;&lt;/a&gt; 朗格朗日乘子法&lt;/h1&gt;&lt;p&gt;拉格朗日乘子法 (Lagrange multipliers)是一种寻找多元函数在一组约束下的极值的方法.通过引入拉格</summary>
-      
-    
-    
-    
-    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>分类中解决类别不平衡问题</title>
-    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/"/>
-    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%86%E7%B1%BB%E4%B8%AD%E8%A7%A3%E5%86%B3%E7%B1%BB%E5%88%AB%E4%B8%8D%E5%B9%B3%E8%A1%A1%E9%97%AE%E9%A2%98/</id>
-    <published>2019-08-11T02:28:21.000Z</published>
-    <updated>2022-08-10T14:58:55.006Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;分类中解决类别不平衡问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#分类中解决类别不平衡问题&quot;&gt;&lt;/a&gt; 分类中解决类别不平衡问题&lt;/h1&gt;&lt;hr&gt;&lt;p&gt;在现实环境中，采集的数据（建模样本）往往是比例失衡的。比如网贷数据，逾期人数的</summary>
       
     
     
