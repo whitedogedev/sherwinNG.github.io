@@ -104,6 +104,28 @@
   </entry>
   
   <entry>
+    <title>DeBERTa系列模型介绍</title>
+    <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/DeBERTa%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/DeBERTa%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D/</id>
+    <published>2022-08-20T03:20:21.000Z</published>
+    <updated>2023-04-18T23:12:04.106Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;deberta系列模型介绍&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#deberta系列模型介绍&quot;&gt;&lt;/a&gt; DeBERTa系列模型介绍&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;本文是BERT相关系列模型第四篇内容，前三篇见该分类下内</summary>
+      
+    
+    
+    
+    <category term="自然语言处理" scheme="http://sherwinzhang.com/categories/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="NLP" scheme="http://sherwinzhang.com/tags/NLP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>RoBERTa：一种稳健优化BERT的预训练方法</title>
     <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/RoBERTa%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%A8%B3%E5%81%A5%E4%BC%98%E5%8C%96BERT%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95/"/>
     <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/RoBERTa%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%A8%B3%E5%81%A5%E4%BC%98%E5%8C%96BERT%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95/</id>
@@ -144,6 +166,28 @@
     
     
     <category term="NLP" scheme="http://sherwinzhang.com/tags/NLP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flask中 jsonify有什么作用？如何使用？</title>
+    <link href="http://sherwinzhang.com/python/python/Flask%E4%B8%AD%20jsonify%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8%EF%BC%9F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%EF%BC%9F/"/>
+    <id>http://sherwinzhang.com/python/python/Flask%E4%B8%AD%20jsonify%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8%EF%BC%9F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%EF%BC%9F/</id>
+    <published>2022-06-08T02:24:02.000Z</published>
+    <updated>2023-04-18T23:09:42.940Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;flask中-jsonify有什么作用如何使用&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flask中-jsonify有什么作用如何使用&quot;&gt;&lt;/a&gt; Flask中 jsonify有什么作用？如何使用？&lt;/h1&gt;&lt;p&gt;&lt;code&gt;js</summary>
+      
+    
+    
+    
+    <category term="python" scheme="http://sherwinzhang.com/categories/python/"/>
+    
+    
+    <category term="python" scheme="http://sherwinzhang.com/tags/python/"/>
     
   </entry>
   
@@ -390,16 +434,16 @@
   </entry>
   
   <entry>
-    <title>python中os._exit()，sys.exit()，exit()的区别是什么？</title>
-    <link href="http://sherwinzhang.com/python/python/python%20%E4%B8%AD%20os._exit()%EF%BC%8C%20sys.exit()%EF%BC%8C%20exit()%20%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
-    <id>http://sherwinzhang.com/python/python/python%20%E4%B8%AD%20os._exit()%EF%BC%8C%20sys.exit()%EF%BC%8C%20exit()%20%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</id>
-    <published>2020-11-08T02:24:02.000Z</published>
-    <updated>2022-08-16T15:30:47.594Z</updated>
+    <title>Python中continue和break的区别</title>
+    <link href="http://sherwinzhang.com/python/python/Python%E4%B8%ADcontinue%E5%92%8Cbreak%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>http://sherwinzhang.com/python/python/Python%E4%B8%ADcontinue%E5%92%8Cbreak%E7%9A%84%E5%8C%BA%E5%88%AB/</id>
+    <published>2020-12-08T02:24:02.000Z</published>
+    <updated>2023-04-18T23:08:08.839Z</updated>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;python-中-os_exit-sysexit-exit-的区别是什么&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#python-中-os_exit-sysexit-exit-的区别是什么&quot;&gt;&lt;/a&gt; python 中 os._ex</summary>
+    <summary type="html">&lt;h1 id=&quot;python中continue和break的区别&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#python中continue和break的区别&quot;&gt;&lt;/a&gt; Python中continue和break的区别&lt;/h1&gt;&lt;p&gt;在Python</summary>
       
     
     
@@ -408,50 +452,6 @@
     
     
     <category term="python" scheme="http://sherwinzhang.com/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>markdown常见数学公式</title>
-    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/markdown%E5%B8%B8%E8%A7%81%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/"/>
-    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/markdown%E5%B8%B8%E8%A7%81%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</id>
-    <published>2020-10-10T00:55:39.000Z</published>
-    <updated>2022-08-28T08:56:23.389Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;1行内与独行&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1行内与独行&quot;&gt;&lt;/a&gt; 1.行内与独行&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;行内公式：将公式插入到本行内，符号：&lt;code&gt;$公式内容$&lt;/code&gt;，如：&lt;span class=&quot;ka</summary>
-      
-    
-    
-    
-    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
-    
-    
-    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>朗格朗日乘子法</title>
-    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%9D%E8%AF%86-%E6%9C%97%E6%A0%BC%E6%9C%97%E6%97%A5%E4%B9%98%E5%AD%90%E6%B3%95/"/>
-    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E5%88%9D%E8%AF%86-%E6%9C%97%E6%A0%BC%E6%9C%97%E6%97%A5%E4%B9%98%E5%AD%90%E6%B3%95/</id>
-    <published>2019-10-08T02:24:21.000Z</published>
-    <updated>2022-08-16T15:31:04.773Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;朗格朗日乘子法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#朗格朗日乘子法&quot;&gt;&lt;/a&gt; 朗格朗日乘子法&lt;/h1&gt;&lt;p&gt;拉格朗日乘子法 (Lagrange multipliers)是一种寻找多元函数在一组约束下的极值的方法.通过引入拉格</summary>
-      
-    
-    
-    
-    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
     
   </entry>
   
