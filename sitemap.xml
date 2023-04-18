@@ -434,7 +434,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/books/index.html</loc>
+    <loc>http://sherwinzhang.com/categories/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -443,7 +443,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/categories/index.html</loc>
+    <loc>http://sherwinzhang.com/books/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -518,6 +518,13 @@
   </url>
   
   <url>
+    <loc>http://sherwinzhang.com/tags/chatGPT/</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/tags/software/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -525,7 +532,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/chatGPT/</loc>
+    <loc>http://sherwinzhang.com/tags/python/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -539,6 +546,13 @@
   </url>
   
   <url>
+    <loc>http://sherwinzhang.com/tags/RS/</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -546,14 +560,14 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86/</loc>
+    <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90/</loc>
+    <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -568,20 +582,6 @@
   
   <url>
     <loc>http://sherwinzhang.com/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</loc>
-    <lastmod>2023-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://sherwinzhang.com/tags/python/</loc>
-    <lastmod>2023-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://sherwinzhang.com/tags/RS/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -625,13 +625,6 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/categories/apple%E7%94%9F%E6%80%81/</loc>
-    <lastmod>2023-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://sherwinzhang.com/categories/chatGPT/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -639,7 +632,7 @@
   </url>
   
   <url>
-    <loc>http://sherwinzhang.com/categories/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/</loc>
+    <loc>http://sherwinzhang.com/categories/apple%E7%94%9F%E6%80%81/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -647,6 +640,13 @@
   
   <url>
     <loc>http://sherwinzhang.com/categories/python/</loc>
+    <lastmod>2023-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://sherwinzhang.com/categories/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/</loc>
     <lastmod>2023-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
