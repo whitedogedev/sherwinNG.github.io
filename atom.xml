@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2023-05-27T16:26:06.536Z</updated>
+  <updated>2023-06-06T00:25:10.649Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>State of GPT</title>
+    <link href="http://sherwinzhang.com/chatGPT/chatGPT/State%20of%20GPT/"/>
+    <id>http://sherwinzhang.com/chatGPT/chatGPT/State%20of%20GPT/</id>
+    <published>2023-06-05T13:24:21.000Z</published>
+    <updated>2023-06-06T00:25:10.649Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;state-of-gpt&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#state-of-gpt&quot;&gt;&lt;/a&gt; State of GPT&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;英文视频地址：&lt;a href=&quot;https://youtu.b</summary>
+      
+    
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/categories/chatGPT/"/>
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/tags/chatGPT/"/>
+    
+  </entry>
   
   <entry>
     <title>GPT-4 幻觉问题（hallucinations）</title>
@@ -430,28 +452,6 @@
     
     
     <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数据分割介绍</title>
-    <link href="http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E6%95%B0%E6%8D%AE%E5%88%86%E5%89%B2%E4%BB%8B%E7%BB%8D/"/>
-    <id>http://sherwinzhang.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/%E6%95%B0%E6%8D%AE%E5%88%86%E5%89%B2%E4%BB%8B%E7%BB%8D/</id>
-    <published>2021-06-12T01:14:21.000Z</published>
-    <updated>2022-06-04T03:47:45.895Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;在机器学习中，我们可&lt;strong&gt;通过实验测试来对学习器的泛化误差进行评估并进而做出选择&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;为此，需使用一个“测试集”( testing set)来测试学习器对新样本的判别能力，然后&lt;strong&gt;以测试集上的“测试误差” (testing </summary>
-      
-    
-    
-    
-    <category term="机器学习" scheme="http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="ML" scheme="http://sherwinzhang.com/tags/ML/"/>
     
   </entry>
   

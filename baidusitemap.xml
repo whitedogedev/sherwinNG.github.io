@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sherwinzhang.com/chatGPT/chatGPT/State%20of%20GPT/</loc>
+    <lastmod>2023-06-06</lastmod>
+  </url>
+  <url>
     <loc>http://sherwinzhang.com/chatGPT/chatGPT/GPT-4%20%E5%B9%BB%E8%A7%89%E9%97%AE%E9%A2%98%EF%BC%88hallucinations%EF%BC%89/</loc>
     <lastmod>2023-05-27</lastmod>
   </url>
