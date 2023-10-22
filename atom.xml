@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2023-06-06T00:25:10.649Z</updated>
+  <updated>2023-10-22T07:03:21.278Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>conda使用总结</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/conda%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/conda%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</id>
+    <published>2023-10-22T06:59:41.000Z</published>
+    <updated>2023-10-22T07:03:21.278Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1conda使用总结&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1conda使用总结&quot;&gt;&lt;/a&gt; 1.conda使用总结&lt;/h2&gt;&lt;p&gt;conda在Python中进行环境管理和包管理具有非常大的优势，在此记录conda相关命令。&lt;/</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
     <title>State of GPT</title>
     <link href="http://sherwinzhang.com/chatGPT/chatGPT/State%20of%20GPT/"/>
     <id>http://sherwinzhang.com/chatGPT/chatGPT/State%20of%20GPT/</id>
     <published>2023-06-05T13:24:21.000Z</published>
-    <updated>2023-06-06T00:25:10.649Z</updated>
+    <updated>2023-06-06T00:25:10.000Z</updated>
     
     
       
@@ -43,7 +65,7 @@
     <link href="http://sherwinzhang.com/chatGPT/chatGPT/GPT-4%20%E5%B9%BB%E8%A7%89%E9%97%AE%E9%A2%98%EF%BC%88hallucinations%EF%BC%89/"/>
     <id>http://sherwinzhang.com/chatGPT/chatGPT/GPT-4%20%E5%B9%BB%E8%A7%89%E9%97%AE%E9%A2%98%EF%BC%88hallucinations%EF%BC%89/</id>
     <published>2023-03-21T02:24:21.000Z</published>
-    <updated>2023-05-27T16:26:06.536Z</updated>
+    <updated>2023-05-27T16:26:06.000Z</updated>
     
     
       
@@ -65,7 +87,7 @@
     <link href="http://sherwinzhang.com/chatGPT/chatGPT/chatGPT%E7%9B%B8%E5%85%B3%E5%A4%A7%E4%BD%AC%E7%9A%84%E8%A7%A3%E8%AF%BB/"/>
     <id>http://sherwinzhang.com/chatGPT/chatGPT/chatGPT%E7%9B%B8%E5%85%B3%E5%A4%A7%E4%BD%AC%E7%9A%84%E8%A7%A3%E8%AF%BB/</id>
     <published>2023-03-03T02:24:21.000Z</published>
-    <updated>2023-04-18T23:42:43.263Z</updated>
+    <updated>2023-04-18T23:42:43.000Z</updated>
     
     
       
@@ -109,7 +131,7 @@
     <link href="http://sherwinzhang.com/chatGPT/chatGPT/chatGPT-api/"/>
     <id>http://sherwinzhang.com/chatGPT/chatGPT/chatGPT-api/</id>
     <published>2023-02-08T02:24:21.000Z</published>
-    <updated>2023-03-31T00:53:45.738Z</updated>
+    <updated>2023-03-31T00:53:45.000Z</updated>
     
     
       
@@ -131,7 +153,7 @@
     <link href="http://sherwinzhang.com/chatGPT/chatGPT/GPT%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/"/>
     <id>http://sherwinzhang.com/chatGPT/chatGPT/GPT%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/</id>
     <published>2023-01-21T02:24:21.000Z</published>
-    <updated>2023-05-27T16:21:45.149Z</updated>
+    <updated>2023-05-27T16:21:45.000Z</updated>
     
     
       
@@ -153,7 +175,7 @@
     <link href="http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/"/>
     <id>http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/</id>
     <published>2022-11-18T15:06:11.000Z</published>
-    <updated>2022-11-19T06:59:43.499Z</updated>
+    <updated>2022-11-19T06:59:43.000Z</updated>
     
     
     <summary type="html">本文主要对推荐系统做了基本介绍，从推荐系统为什么会出现，然后讲解了推荐系统基本概念，以及推荐和搜索的区别；梳理了推荐系统的发展历史，推荐系统主要架构，部分推荐系统案例；最后自己设计了一个视频推荐系统整体流程。</summary>
@@ -174,7 +196,7 @@
     <link href="http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E3%80%8A%E4%BA%BA%E4%B8%96%E9%97%B4%E3%80%8B%E5%B0%8F%E8%AF%B4%E5%B7%B2%E9%98%85/"/>
     <id>http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E3%80%8A%E4%BA%BA%E4%B8%96%E9%97%B4%E3%80%8B%E5%B0%8F%E8%AF%B4%E5%B7%B2%E9%98%85/</id>
     <published>2022-10-09T11:41:15.000Z</published>
-    <updated>2022-10-17T15:02:19.231Z</updated>
+    <updated>2022-10-17T15:02:19.000Z</updated>
     
     
       
@@ -196,7 +218,7 @@
     <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/DeBERTa%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D/"/>
     <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/DeBERTa%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D/</id>
     <published>2022-08-20T03:20:21.000Z</published>
-    <updated>2023-04-18T23:12:04.106Z</updated>
+    <updated>2023-04-18T23:12:04.000Z</updated>
     
     
       
@@ -218,7 +240,7 @@
     <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/RoBERTa%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%A8%B3%E5%81%A5%E4%BC%98%E5%8C%96BERT%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95/"/>
     <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/RoBERTa%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%A8%B3%E5%81%A5%E4%BC%98%E5%8C%96BERT%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95/</id>
     <published>2022-08-15T03:20:21.000Z</published>
-    <updated>2022-08-28T14:21:41.212Z</updated>
+    <updated>2022-08-28T14:21:41.000Z</updated>
     
     
       
@@ -240,7 +262,7 @@
     <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/BERT%E4%B9%8B%E5%90%8E%EF%BC%8CNLP%E4%B8%BB%E8%A6%81%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B%E6%BC%94%E5%8F%98%E6%A2%B3%E7%90%86/"/>
     <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/BERT%E4%B9%8B%E5%90%8E%EF%BC%8CNLP%E4%B8%BB%E8%A6%81%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B%E6%BC%94%E5%8F%98%E6%A2%B3%E7%90%86/</id>
     <published>2022-06-20T13:20:21.000Z</published>
-    <updated>2022-08-28T14:23:33.630Z</updated>
+    <updated>2022-08-28T14:23:33.000Z</updated>
     
     
       
@@ -262,7 +284,7 @@
     <link href="http://sherwinzhang.com/python/python/Flask%E4%B8%AD%20jsonify%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8%EF%BC%9F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%EF%BC%9F/"/>
     <id>http://sherwinzhang.com/python/python/Flask%E4%B8%AD%20jsonify%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8%EF%BC%9F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%EF%BC%9F/</id>
     <published>2022-06-08T02:24:02.000Z</published>
-    <updated>2023-04-18T23:09:42.940Z</updated>
+    <updated>2023-04-18T23:09:42.000Z</updated>
     
     
       
@@ -284,7 +306,7 @@
     <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-fastapi[3-3]/"/>
     <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-fastapi[3-3]/</id>
     <published>2022-06-07T13:34:29.000Z</published>
-    <updated>2022-06-07T13:38:49.530Z</updated>
+    <updated>2022-06-07T13:38:49.000Z</updated>
     
     
       
@@ -306,7 +328,7 @@
     <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/"/>
     <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/</id>
     <published>2022-06-07T13:04:29.000Z</published>
-    <updated>2022-06-07T13:38:42.937Z</updated>
+    <updated>2022-06-07T13:38:42.000Z</updated>
     
     
       
@@ -328,7 +350,7 @@
     <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/"/>
     <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/</id>
     <published>2022-06-07T12:44:29.000Z</published>
-    <updated>2022-06-07T13:38:37.020Z</updated>
+    <updated>2022-06-07T13:38:37.000Z</updated>
     
     
       
@@ -350,7 +372,7 @@
     <link href="http://sherwinzhang.com/apple%E7%94%9F%E6%80%81/apple%E7%94%9F%E6%80%81/%E7%9B%AE%E5%89%8D%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%99%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/"/>
     <id>http://sherwinzhang.com/apple%E7%94%9F%E6%80%81/apple%E7%94%9F%E6%80%81/%E7%9B%AE%E5%89%8D%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%99%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/</id>
     <published>2022-06-03T08:44:34.000Z</published>
-    <updated>2023-04-02T00:08:55.764Z</updated>
+    <updated>2023-04-02T00:08:55.000Z</updated>
     
     
       
@@ -372,7 +394,7 @@
     <link href="http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E6%B5%81%E8%A8%80%E7%8C%9B%E5%A6%82%E8%99%8E/"/>
     <id>http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E6%B5%81%E8%A8%80%E7%8C%9B%E5%A6%82%E8%99%8E/</id>
     <published>2022-05-14T15:41:15.000Z</published>
-    <updated>2022-06-04T03:48:10.861Z</updated>
+    <updated>2022-06-04T03:48:10.000Z</updated>
     
     
       
@@ -394,7 +416,7 @@
     <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/ERNIE%E8%AE%BA%E6%96%87%E5%AF%BC%E8%AF%BB%E5%92%8C%E7%BF%BB%E8%AF%91/"/>
     <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/ERNIE%E8%AE%BA%E6%96%87%E5%AF%BC%E8%AF%BB%E5%92%8C%E7%BF%BB%E8%AF%91/</id>
     <published>2022-02-15T03:20:21.000Z</published>
-    <updated>2022-08-28T14:23:27.772Z</updated>
+    <updated>2022-08-28T14:23:27.000Z</updated>
     
     
       
@@ -416,34 +438,12 @@
     <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Anaconda/"/>
     <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Anaconda/</id>
     <published>2021-10-10T00:55:39.000Z</published>
-    <updated>2022-06-16T00:56:03.776Z</updated>
+    <updated>2022-06-16T00:56:03.000Z</updated>
     
     
       
       
     <summary type="html">&lt;h1 id=&quot;linux环境下安装anaconda&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux环境下安装anaconda&quot;&gt;&lt;/a&gt; linux环境下安装Anaconda&lt;/h1&gt;&lt;h2 id=&quot;1下载&quot;&gt;&lt;a class=&quot;markd</summary>
-      
-    
-    
-    
-    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
-    
-    
-    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>tmux命令总结</title>
-    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/tmux%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/"/>
-    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/tmux%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</id>
-    <published>2021-10-08T15:21:18.000Z</published>
-    <updated>2022-06-08T15:21:39.627Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;tmux命令总结&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#tmux命令总结&quot;&gt;&lt;/a&gt; tmux命令总结&lt;/h1&gt;&lt;h2 id=&quot;1-是什么&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-是什么&quot;&gt;</summary>
       
     
     
