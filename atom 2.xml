@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>sherwinNG&#39;s blog</title>
+  
+  <subtitle>遇见更好的自己</subtitle>
+  <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
+  
+  <link href="http://sherwinzhang.com/"/>
+  <updated>2023-06-06T00:25:10.649Z</updated>
+  <id>http://sherwinzhang.com/</id>
+  
+  <author>
+    <name>sherwin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>State of GPT</title>
+    <link href="http://sherwinzhang.com/chatGPT/chatGPT/State%20of%20GPT/"/>
+    <id>http://sherwinzhang.com/chatGPT/chatGPT/State%20of%20GPT/</id>
+    <published>2023-06-05T13:24:21.000Z</published>
+    <updated>2023-06-06T00:25:10.649Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;state-of-gpt&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#state-of-gpt&quot;&gt;&lt;/a&gt; State of GPT&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;英文视频地址：&lt;a href=&quot;https://youtu.b</summary>
+      
+    
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/categories/chatGPT/"/>
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/tags/chatGPT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GPT-4 幻觉问题（hallucinations）</title>
+    <link href="http://sherwinzhang.com/chatGPT/chatGPT/GPT-4%20%E5%B9%BB%E8%A7%89%E9%97%AE%E9%A2%98%EF%BC%88hallucinations%EF%BC%89/"/>
+    <id>http://sherwinzhang.com/chatGPT/chatGPT/GPT-4%20%E5%B9%BB%E8%A7%89%E9%97%AE%E9%A2%98%EF%BC%88hallucinations%EF%BC%89/</id>
+    <published>2023-03-21T02:24:21.000Z</published>
+    <updated>2023-05-27T16:26:06.536Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;gpt-4-幻觉问题hallucinations&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#gpt-4-幻觉问题hallucinations&quot;&gt;&lt;/a&gt; GPT-4 幻觉问题（hallucinations）&lt;/h1&gt;&lt;h2 id=&quot;</summary>
+      
+    
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/categories/chatGPT/"/>
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/tags/chatGPT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>chatGPT相关大佬的解读</title>
+    <link href="http://sherwinzhang.com/chatGPT/chatGPT/chatGPT%E7%9B%B8%E5%85%B3%E5%A4%A7%E4%BD%AC%E7%9A%84%E8%A7%A3%E8%AF%BB/"/>
+    <id>http://sherwinzhang.com/chatGPT/chatGPT/chatGPT%E7%9B%B8%E5%85%B3%E5%A4%A7%E4%BD%AC%E7%9A%84%E8%A7%A3%E8%AF%BB/</id>
+    <published>2023-03-03T02:24:21.000Z</published>
+    <updated>2023-04-18T23:42:43.263Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;chatgpt相关大佬的解读&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#chatgpt相关大佬的解读&quot;&gt;&lt;/a&gt; chatGPT相关大佬的解读&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;随时更新中&lt;/p&gt;&lt;/blockquote&gt;&lt;h3</summary>
+      
+    
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/categories/chatGPT/"/>
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/tags/chatGPT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何监测部署服务是否正常运行，同时挂掉后自动重启</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E7%9B%91%E6%B5%8B%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E6%98%AF%E5%90%A6%E6%AD%A3%E5%B8%B8%E8%BF%90%E8%A1%8C%EF%BC%8C%E5%90%8C%E6%97%B6%E6%8C%82%E6%8E%89%E5%90%8E%E8%87%AA%E5%8A%A8%E9%87%8D%E5%90%AF/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E5%A6%82%E4%BD%95%E7%9B%91%E6%B5%8B%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E6%98%AF%E5%90%A6%E6%AD%A3%E5%B8%B8%E8%BF%90%E8%A1%8C%EF%BC%8C%E5%90%8C%E6%97%B6%E6%8C%82%E6%8E%89%E5%90%8E%E8%87%AA%E5%8A%A8%E9%87%8D%E5%90%AF/</id>
+    <published>2023-02-20T11:12:42.000Z</published>
+    <updated>2023-02-20T11:12:58.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;如何监测部署服务是否正常运行同时挂掉后自动重启&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#如何监测部署服务是否正常运行同时挂掉后自动重启&quot;&gt;&lt;/a&gt; 如何监测部署服务是否正常运行，同时挂掉后自动重启&lt;/h1&gt;&lt;h2 id=&quot;1需求&quot;</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>chatGPT API使用以及参数说明</title>
+    <link href="http://sherwinzhang.com/chatGPT/chatGPT/chatGPT-api/"/>
+    <id>http://sherwinzhang.com/chatGPT/chatGPT/chatGPT-api/</id>
+    <published>2023-02-08T02:24:21.000Z</published>
+    <updated>2023-03-31T00:53:45.738Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;OpenAI 官方发布chatGPT(GPT3.5) API 使用指南&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;该篇文章为 NLPer 和 chatGPT 合作完成。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;3月2日，OpenAI放出了真正的ChatGPT API，本次提供的AP</summary>
+      
+    
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/categories/chatGPT/"/>
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/tags/chatGPT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GPT系列论文&amp;报告</title>
+    <link href="http://sherwinzhang.com/chatGPT/chatGPT/GPT%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/"/>
+    <id>http://sherwinzhang.com/chatGPT/chatGPT/GPT%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/</id>
+    <published>2023-01-21T02:24:21.000Z</published>
+    <updated>2023-05-27T16:21:45.149Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;gpt系列论文报告&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#gpt系列论文报告&quot;&gt;&lt;/a&gt; GPT系列论文&amp;amp;报告&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;随时更新中&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;英文全称：Gener</summary>
+      
+    
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/categories/chatGPT/"/>
+    
+    
+    <category term="chatGPT" scheme="http://sherwinzhang.com/tags/chatGPT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐系统通俗介绍</title>
+    <link href="http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://sherwinzhang.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D/</id>
+    <published>2022-11-18T15:06:11.000Z</published>
+    <updated>2022-11-19T06:59:43.499Z</updated>
+    
+    
+    <summary type="html">本文主要对推荐系统做了基本介绍，从推荐系统为什么会出现，然后讲解了推荐系统基本概念，以及推荐和搜索的区别；梳理了推荐系统的发展历史，推荐系统主要架构，部分推荐系统案例；最后自己设计了一个视频推荐系统整体流程。</summary>
+    
+    
+    
+    <category term="推荐系统" scheme="http://sherwinzhang.com/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
+    
+    <category term="RS" scheme="http://sherwinzhang.com/tags/RS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《人世间》小说已阅</title>
+    <link href="http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E3%80%8A%E4%BA%BA%E4%B8%96%E9%97%B4%E3%80%8B%E5%B0%8F%E8%AF%B4%E5%B7%B2%E9%98%85/"/>
+    <id>http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E3%80%8A%E4%BA%BA%E4%B8%96%E9%97%B4%E3%80%8B%E5%B0%8F%E8%AF%B4%E5%B7%B2%E9%98%85/</id>
+    <published>2022-10-09T11:41:15.000Z</published>
+    <updated>2022-10-17T15:02:19.231Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;国庆期间，因为疫情，同时北京马上二十大召开，出京不便，于是在放假前几天买了这部小说。不辱使命，几天时间把上、中、下三部都翻完。&lt;/p&gt;&lt;p&gt;我发现，对于这种描写近现代几代人生活的小说，我有一种莫名的的痴迷，比如之前看过的《平凡的世界》、《白鹿原》、《大江东去》。&lt;/p&gt;&lt;p</summary>
+      
+    
+    
+    
+    <category term="程序人生" scheme="http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+    
+    <category term="随感" scheme="http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DeBERTa系列模型介绍</title>
+    <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/DeBERTa%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/DeBERTa%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D/</id>
+    <published>2022-08-20T03:20:21.000Z</published>
+    <updated>2023-04-18T23:12:04.106Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;deberta系列模型介绍&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#deberta系列模型介绍&quot;&gt;&lt;/a&gt; DeBERTa系列模型介绍&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;本文是BERT相关系列模型第四篇内容，前三篇见该分类下内</summary>
+      
+    
+    
+    
+    <category term="自然语言处理" scheme="http://sherwinzhang.com/categories/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="NLP" scheme="http://sherwinzhang.com/tags/NLP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RoBERTa：一种稳健优化BERT的预训练方法</title>
+    <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/RoBERTa%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%A8%B3%E5%81%A5%E4%BC%98%E5%8C%96BERT%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95/"/>
+    <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/RoBERTa%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%A8%B3%E5%81%A5%E4%BC%98%E5%8C%96BERT%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95/</id>
+    <published>2022-08-15T03:20:21.000Z</published>
+    <updated>2022-08-28T14:21:41.212Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;摘要&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#摘要&quot;&gt;&lt;/a&gt; 摘要&lt;/h2&gt;&lt;p&gt;语言模型的预训练带来了显著的性能提高，但比较不同的方法具有一定的挑战性。因为其训练的计算成本很高，同时不同的模型通常又是在不同规模的私有数据集上进</summary>
+      
+    
+    
+    
+    <category term="自然语言处理" scheme="http://sherwinzhang.com/categories/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="NLP" scheme="http://sherwinzhang.com/tags/NLP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BERT之后，NLP主要预训练模型演变梳理</title>
+    <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/BERT%E4%B9%8B%E5%90%8E%EF%BC%8CNLP%E4%B8%BB%E8%A6%81%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B%E6%BC%94%E5%8F%98%E6%A2%B3%E7%90%86/"/>
+    <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/BERT%E4%B9%8B%E5%90%8E%EF%BC%8CNLP%E4%B8%BB%E8%A6%81%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B%E6%BC%94%E5%8F%98%E6%A2%B3%E7%90%86/</id>
+    <published>2022-06-20T13:20:21.000Z</published>
+    <updated>2022-08-28T14:23:33.630Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1背景&quot;&gt;&lt;/a&gt; 1.背景&lt;/h2&gt;&lt;p&gt;BERT [1]（Bidirectional Encoder Representation from Transformers）是由 Go</summary>
+      
+    
+    
+    
+    <category term="自然语言处理" scheme="http://sherwinzhang.com/categories/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="NLP" scheme="http://sherwinzhang.com/tags/NLP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flask中 jsonify有什么作用？如何使用？</title>
+    <link href="http://sherwinzhang.com/python/python/Flask%E4%B8%AD%20jsonify%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8%EF%BC%9F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%EF%BC%9F/"/>
+    <id>http://sherwinzhang.com/python/python/Flask%E4%B8%AD%20jsonify%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8%EF%BC%9F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%EF%BC%9F/</id>
+    <published>2022-06-08T02:24:02.000Z</published>
+    <updated>2023-04-18T23:09:42.940Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;flask中-jsonify有什么作用如何使用&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flask中-jsonify有什么作用如何使用&quot;&gt;&lt;/a&gt; Flask中 jsonify有什么作用？如何使用？&lt;/h1&gt;&lt;p&gt;&lt;code&gt;js</summary>
+      
+    
+    
+    
+    <category term="python" scheme="http://sherwinzhang.com/categories/python/"/>
+    
+    
+    <category term="python" scheme="http://sherwinzhang.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI模型部署-fastapi[3-3]</title>
+    <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-fastapi[3-3]/"/>
+    <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-fastapi[3-3]/</id>
+    <published>2022-06-07T13:34:29.000Z</published>
+    <updated>2022-06-07T13:38:49.530Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一-使用方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-使用方法&quot;&gt;&lt;/a&gt; 一、使用方法&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;1.fastapi服务代码&lt;/li&gt;&lt;/ul&gt;&lt;figure class=&quot;highlight python&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="AI综合" scheme="http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/"/>
+    
+    
+    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI模型部署-flask[3-2]</title>
+    <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/"/>
+    <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/</id>
+    <published>2022-06-07T13:04:29.000Z</published>
+    <updated>2022-06-07T13:38:42.937Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一-背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-背景&quot;&gt;&lt;/a&gt; 一、背景&lt;/h2&gt;&lt;p&gt;深度学习在训练好模型中，我们需要进行部署，有一些框架中已经自带部署框架，如TensorFlow中的 TensorFlow servin</summary>
+      
+    
+    
+    
+    <category term="AI综合" scheme="http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/"/>
+    
+    
+    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI模型部署-flask和fastapi对比[3-1]</title>
+    <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/"/>
+    <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/</id>
+    <published>2022-06-07T12:44:29.000Z</published>
+    <updated>2022-06-07T13:38:37.020Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1基本介绍&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1基本介绍&quot;&gt;&lt;/a&gt; 1.基本介绍&lt;/h2&gt;&lt;p&gt;flask、fastapi都是python语言在Web领域的框架，使用它们可以帮助我们提升效率，节省时间，避免我们在组装”汽车</summary>
+      
+    
+    
+    
+    <category term="AI综合" scheme="http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/"/>
+    
+    
+    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>目前使用不错软件整理</title>
+    <link href="http://sherwinzhang.com/apple%E7%94%9F%E6%80%81/apple%E7%94%9F%E6%80%81/%E7%9B%AE%E5%89%8D%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%99%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/"/>
+    <id>http://sherwinzhang.com/apple%E7%94%9F%E6%80%81/apple%E7%94%9F%E6%80%81/%E7%9B%AE%E5%89%8D%E4%BD%BF%E7%94%A8%E4%B8%8D%E9%94%99%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/</id>
+    <published>2022-06-03T08:44:34.000Z</published>
+    <updated>2023-04-02T00:08:55.764Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;办公&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#办公&quot;&gt;&lt;/a&gt; 办公&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;滴答清单：计划管理&lt;/li&gt;&lt;li&gt;screenbrush:屏幕画笔、标记&lt;/li&gt;&lt;li&gt;pdf阅读器：pdf expert&lt;ul&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="apple生态" scheme="http://sherwinzhang.com/categories/apple%E7%94%9F%E6%80%81/"/>
+    
+    
+    <category term="software" scheme="http://sherwinzhang.com/tags/software/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>流言猛如虎</title>
+    <link href="http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E6%B5%81%E8%A8%80%E7%8C%9B%E5%A6%82%E8%99%8E/"/>
+    <id>http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E6%B5%81%E8%A8%80%E7%8C%9B%E5%A6%82%E8%99%8E/</id>
+    <published>2022-05-14T15:41:15.000Z</published>
+    <updated>2022-06-04T03:48:10.861Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近发生的几件事情，作为一个旁观者，让我深刻体会到在信息爆炸的今天，流言的可怕性。暂且在此记录，同时告诫自己以后类似情况应对之法。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;1.本周四下午，突然传出北京市因为疫情原因，新闻发布会将会宣布北京进入静默管理3天。该消息一经流传，就在各大短视频平台迅</summary>
+      
+    
+    
+    
+    <category term="程序人生" scheme="http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+    
+    <category term="随感" scheme="http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ERNIE论文导读和翻译</title>
+    <link href="http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/ERNIE%E8%AE%BA%E6%96%87%E5%AF%BC%E8%AF%BB%E5%92%8C%E7%BF%BB%E8%AF%91/"/>
+    <id>http://sherwinzhang.com/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/NLP/ERNIE%E8%AE%BA%E6%96%87%E5%AF%BC%E8%AF%BB%E5%92%8C%E7%BF%BB%E8%AF%91/</id>
+    <published>2022-02-15T03:20:21.000Z</published>
+    <updated>2022-08-28T14:23:27.772Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;ERNIE: Enhanced Representation through Knowledge Integration文章脉络：&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/e6c9d24ely1h52xbxsxidj20r</summary>
+      
+    
+    
+    
+    <category term="自然语言处理" scheme="http://sherwinzhang.com/categories/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="NLP" scheme="http://sherwinzhang.com/tags/NLP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux环境下安装Anaconda</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Anaconda/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Anaconda/</id>
+    <published>2021-10-10T00:55:39.000Z</published>
+    <updated>2022-06-16T00:56:03.776Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;linux环境下安装anaconda&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux环境下安装anaconda&quot;&gt;&lt;/a&gt; linux环境下安装Anaconda&lt;/h1&gt;&lt;h2 id=&quot;1下载&quot;&gt;&lt;a class=&quot;markd</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>tmux命令总结</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/tmux%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/tmux%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</id>
+    <published>2021-10-08T15:21:18.000Z</published>
+    <updated>2022-06-08T15:21:39.627Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;tmux命令总结&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#tmux命令总结&quot;&gt;&lt;/a&gt; tmux命令总结&lt;/h1&gt;&lt;h2 id=&quot;1-是什么&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-是什么&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
