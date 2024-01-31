@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2023-10-30T12:28:24.898Z</updated>
+  <updated>2024-01-31T06:22:58.024Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nvidia-smi命令总结</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/nvidia-smi%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/nvidia-smi%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</id>
+    <published>2024-01-31T06:15:28.195Z</published>
+    <updated>2024-01-31T06:22:58.024Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;nvidia-smi命令总结&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#nvidia-smi命令总结&quot;&gt;&lt;/a&gt; nvidia-smi命令总结&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;nvidia-smi（NVIDIA System Mana</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>超实用压力测试工具－ab工具</title>
@@ -430,28 +452,6 @@
     
     
     <category term="software" scheme="http://sherwinzhang.com/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>流言猛如虎</title>
-    <link href="http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E6%B5%81%E8%A8%80%E7%8C%9B%E5%A6%82%E8%99%8E/"/>
-    <id>http://sherwinzhang.com/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E6%B5%81%E8%A8%80%E7%8C%9B%E5%A6%82%E8%99%8E/</id>
-    <published>2022-05-14T15:41:15.000Z</published>
-    <updated>2022-06-04T03:48:10.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;最近发生的几件事情，作为一个旁观者，让我深刻体会到在信息爆炸的今天，流言的可怕性。暂且在此记录，同时告诫自己以后类似情况应对之法。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;1.本周四下午，突然传出北京市因为疫情原因，新闻发布会将会宣布北京进入静默管理3天。该消息一经流传，就在各大短视频平台迅</summary>
-      
-    
-    
-    
-    <category term="程序人生" scheme="http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
-    
-    
-    <category term="随感" scheme="http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/"/>
     
   </entry>
   
