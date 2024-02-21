@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sherwinzhang.com/terminal/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/iTerm2%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</loc>
+    
+    <lastmod>2024-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/conda%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</loc>
+    
+    <lastmod>2024-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/nvidia-smi%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2024-01-31</lastmod>
@@ -23,15 +41,6 @@
     <loc>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Ps%20-ef%EF%BC%88aux%EF%BC%89%20%E5%90%84%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%A7%A3%E9%87%8A/</loc>
     
     <lastmod>2023-10-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/conda%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</loc>
-    
-    <lastmod>2023-10-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -535,7 +544,7 @@
 
   <url>
     <loc>http://sherwinzhang.com/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -543,105 +552,105 @@
   
   <url>
     <loc>http://sherwinzhang.com/tags/software/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/AI/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/ML/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/NLP/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/chatGPT/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/python/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/RS/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/%E9%9A%8F%E6%84%9F/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/Linux/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/%E5%AF%B9%E8%AF%9D%E7%94%9F%E6%88%90/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -650,70 +659,77 @@
   
   <url>
     <loc>http://sherwinzhang.com/categories/apple%E7%94%9F%E6%80%81/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/chatGPT/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/python/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://sherwinzhang.com/categories/terminal/</loc>
+    <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
