@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2024-03-22T11:05:24.148Z</updated>
+  <updated>2024-03-22T11:15:44.816Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>终端 常用快捷键总结</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Linux%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%80%BB%E7%BB%93/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Linux%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%80%BB%E7%BB%93/</id>
+    <published>2024-03-22T11:14:22.484Z</published>
+    <updated>2024-03-22T11:15:44.816Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;终端-常用快捷键总结&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#终端-常用快捷键总结&quot;&gt;&lt;/a&gt; 终端 常用快捷键总结&lt;/h1&gt;&lt;h2 id=&quot;压缩相关&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#压缩</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Miniconda 使用总结</title>
     <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/miniconda%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/"/>
     <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/miniconda%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</id>
     <published>2024-03-22T11:04:47.000Z</published>
-    <updated>2024-03-22T11:05:24.148Z</updated>
+    <updated>2024-03-22T11:16:17.729Z</updated>
     
     
       
@@ -420,28 +442,6 @@
       
       
     <summary type="html">&lt;h2 id=&quot;一-使用方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-使用方法&quot;&gt;&lt;/a&gt; 一、使用方法&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;1.fastapi服务代码&lt;/li&gt;&lt;/ul&gt;&lt;figure class=&quot;highlight python&quot;&gt;</summary>
-      
-    
-    
-    
-    <category term="AI综合" scheme="http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/"/>
-    
-    
-    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AI模型部署-flask[3-2]</title>
-    <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/"/>
-    <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask[3-2]/</id>
-    <published>2022-06-07T13:04:29.000Z</published>
-    <updated>2022-06-07T13:38:42.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;一-背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-背景&quot;&gt;&lt;/a&gt; 一、背景&lt;/h2&gt;&lt;p&gt;深度学习在训练好模型中，我们需要进行部署，有一些框架中已经自带部署框架，如TensorFlow中的 TensorFlow servin</summary>
       
     
     
