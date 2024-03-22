@@ -6,7 +6,7 @@
   <link href="http://sherwinzhang.com/atom.xml" rel="self"/>
   
   <link href="http://sherwinzhang.com/"/>
-  <updated>2024-02-21T02:55:03.899Z</updated>
+  <updated>2024-03-22T11:05:24.148Z</updated>
   <id>http://sherwinzhang.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Miniconda 使用总结</title>
+    <link href="http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/miniconda%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/"/>
+    <id>http://sherwinzhang.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/miniconda%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</id>
+    <published>2024-03-22T11:04:47.000Z</published>
+    <updated>2024-03-22T11:05:24.148Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;miniconda-使用总结&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#miniconda-使用总结&quot;&gt;&lt;/a&gt; Miniconda 使用总结&lt;/h1&gt;&lt;h3 id=&quot;1-下载-anaconda&quot;&gt;&lt;a class=&quot;markdow</summary>
+      
+    
+    
+    
+    <category term="计算机相关" scheme="http://sherwinzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="Linux" scheme="http://sherwinzhang.com/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>iTerm2 快捷键大全</title>
@@ -420,28 +442,6 @@
       
       
     <summary type="html">&lt;h2 id=&quot;一-背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-背景&quot;&gt;&lt;/a&gt; 一、背景&lt;/h2&gt;&lt;p&gt;深度学习在训练好模型中，我们需要进行部署，有一些框架中已经自带部署框架，如TensorFlow中的 TensorFlow servin</summary>
-      
-    
-    
-    
-    <category term="AI综合" scheme="http://sherwinzhang.com/categories/AI%E7%BB%BC%E5%90%88/"/>
-    
-    
-    <category term="AI" scheme="http://sherwinzhang.com/tags/AI/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AI模型部署-flask和fastapi对比[3-1]</title>
-    <link href="http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/"/>
-    <id>http://sherwinzhang.com/AI%E7%BB%BC%E5%90%88/AI%E7%BB%BC%E5%90%88/AI%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-flask%20%E5%92%8Cfastapi%20%E5%AF%B9%E6%AF%94[3-1]/</id>
-    <published>2022-06-07T12:44:29.000Z</published>
-    <updated>2022-06-07T13:38:37.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;1基本介绍&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1基本介绍&quot;&gt;&lt;/a&gt; 1.基本介绍&lt;/h2&gt;&lt;p&gt;flask、fastapi都是python语言在Web领域的框架，使用它们可以帮助我们提升效率，节省时间，避免我们在组装”汽车</summary>
       
     
     
